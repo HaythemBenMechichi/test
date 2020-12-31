@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix2"/>
+    <qresource prefix="/">
+        <file>add.png</file>
+        <file>adddd.png</file>
+        <file>business_application_addmale_useradd_insert_add_user_client_2312.png</file>
+        <file>delete.png</file>
+        <file>delete_delete_deleteusers_delete_male_user_maleclient_2348.png</file>
+        <file>Edit-Male-User-icon.png</file>
+        <file>efff.jpg</file>
+        <file>exit.png</file>
+        <file>home.png</file>
+        <file>images.qrc</file>
+        <file>smspartner-vert.png</file>
+        <file>uuu.qrc</file>
+        <file>images.jpg</file>
+        <file>images (1).jpg</file>
+        <file>sheeps.jpg</file>
+    </qresource>
+</RCC>
